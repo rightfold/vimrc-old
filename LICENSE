@@ -1,0 +1,6 @@
+rightfold's Vim configuration is in the public domain, except for parts written
+by other people, which are listed below.
+
+vim-pathogen - http://www.vim.org/scripts/script.php?script_id=2332
+Copyright (c) Tim Pope. Distributed under the same terms as Vim itself. See
+:help license.
