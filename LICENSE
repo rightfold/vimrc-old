@@ -9,6 +9,10 @@ vim-fugitive - http://www.vim.org/scripts/script.php?script_id=2975
 Copyright (c) Tim Pope. Distributed under the same terms as Vim itself. See
 :help license.
 
+vim-gitgutter - https://github.com/airblade/vim-gitgutter
+Copyright Andrew Stewart, AirBlade Software Ltd. Released under the MIT
+licence.
+
 vim-pathogen - http://www.vim.org/scripts/script.php?script_id=2332
 Copyright (c) Tim Pope. Distributed under the same terms as Vim itself. See
 :help license.
