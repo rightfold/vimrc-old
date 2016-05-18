@@ -66,6 +66,7 @@ fun <sid>hi(group, guifg, guibg, ctermfg, ctermbg, attr)
   if a:attr != ""
     exec "hi " . a:group . " gui=" . a:attr . " cterm=" . a:attr
   endif
+  exec "hi " . a:group . " gui=NONE"
 endfun
 
 " Vim editor colors
