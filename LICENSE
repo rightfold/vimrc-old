@@ -96,6 +96,11 @@ ctrlp.vim - http://ctrlpvim.github.io/ctrlp.vim/
 
 mod8 - https://github.com/easysid/mod8.vim
 
+rust.vim - https://github.com/rust-lang/rust.vim
+Like Rust, rust.vim is primarily distributed under the terms of both the MIT
+license and the Apache License (Version 2.0). See LICENSE-APACHE and
+LICENSE-MIT for details.
+
 vim-fugitive - http://www.vim.org/scripts/script.php?script_id=2975
 Copyright (c) Tim Pope. Distributed under the same terms as Vim itself. See
 :help license.
